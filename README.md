@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon error encountered when working with the innerHTML property in HTML.  The bug occurs when attempting to directly assign a JavaScript object to the innerHTML property of an HTML element.  The solution showcases the correct approach.
